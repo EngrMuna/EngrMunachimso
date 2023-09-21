@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  background: rgba(0, 0, 255, 0.65);
+  color: white;
+}
+.header {
+  text-align: center;
+  width: 350px;
+  padding: 20px;
+  margin: 0 auto;
+  border-bottom: 3px solid white;
+}
+table, th, td, tr {
+  border: 1px solid white;
+  text-align: center;
+}
+
+tr, td, th {
+  width: 300px;
+  height: 30px;
+}
